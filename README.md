@@ -18,7 +18,6 @@ The objective is to analyze and optimize delivery routes by:
 - **Python** (JupyterLab)
 - **Neo4j** – Graph database for interactive route modeling
 - **NetworkX** – Graph analysis in Python
-- **Plotly** – Interactive route visualizations
 - **Matplotlib** – Static graph layouts
 - **Pandas** – Data manipulation
 
